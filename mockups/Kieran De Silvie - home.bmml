@@ -1,0 +1,112 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1219" measuredH="671" mockupW="1202" mockupH="663">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="17" y="8" w="607" h="663" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20may%20post%20my%20writings%20Pen%20name%20Kieran%20de%20Silvie%0Ahttp%3A//www.kieran-de-silvie.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::FieldSet" x="25" y="241" w="591" h="256" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>main_body</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Arrow" x="161" y="51" w="509" h="272" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::FieldSet" x="670" y="41" w="549" h="479" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>post</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::FieldSet" x="677" y="50" w="532" h="82" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>post_header</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::SubTitle" x="685" y="59" w="-1" h="-1" measuredW="390" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Kieran%20de%20Silvie%22%20is%20a%20ridiculus%20name</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="685" y="86" w="509" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="1032" y="96" w="-1" h="-1" measuredW="162" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Time%20and%20Date%20Stamp%20GMT</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::FieldSet" x="677" y="413" w="532" h="46" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>post_footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::FieldSet" x="677" y="132" w="532" h="281" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>post_body</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Paragraph" x="689" y="149" w="505" h="258" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20%5Bpreview%5D%20of%20a%20paragraph%20that%20we%20can%20read%20*more*%20_about_%0A%20%0AA%20%5Bpreview%5D%20of%20a%20paragraph%20that%20we%20can%20read%20*more*%20_about_%0A%20%0A..%0A..%0A..%0A%20%0AA%20%5Bpreview%5D%20of%20a%20paragraph%20that%20we%20can%20read%20*more*%20_about_</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::FieldSet" x="677" y="459" w="532" h="46" measuredW="200" measuredH="170" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>comment_box</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="__group__" x="22" y="81" w="594" h="159" measuredW="594" measuredH="159" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="594" h="159" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="44">
+          <controlProperties>
+            <text>main_header</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="426" y="126" w="-1" h="-1" measuredW="152" measuredH="27" zOrder="1" locked="false" isInGroup="44">
+          <controlProperties>
+            <text>search%20for%20content%20here</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="14" y="15" w="564" h="109" measuredW="564" measuredH="109" zOrder="2" locked="false" isInGroup="44">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="564" h="109" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <color>16167531</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="8" y="15" w="-1" h="-1" measuredW="217" measuredH="70" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>%22You%20may%20post%20my%20writings%2C%20pen%20name</text>
+                <textOrientation>slanted</textOrientation>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="218" y="33" w="-1" h="-1" measuredW="298" measuredH="43" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>40</size>
+                <text>Kieran%20de%20Silvie%22</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="45" controlTypeID="__group__" x="25" y="597" w="594" h="39" measuredW="594" measuredH="39" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="594" h="39" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="45">
+          <controlProperties>
+            <text>main_footer</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="426" y="15" w="-1" h="-1" measuredW="153" measuredH="19" zOrder="1" locked="false" isInGroup="45">
+          <controlProperties>
+            <text>About%2C%20Archives%2C%20Login</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
