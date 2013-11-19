@@ -1,4 +1,4 @@
-// Generated on 2013-11-18 using generator-marionette-express 0.1.2
+// Generated on 2013-11-19 using generator-marionette-express 0.1.2
 
 'use strict';
 

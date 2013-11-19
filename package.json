@@ -1,5 +1,5 @@
 {
-  "name": "alpha",
+  "name": "kierandesilvie-blog",
   "version": "0.0.0",
   "dependencies": {
     "express": "~3.4.4",

@@ -1,5 +1,5 @@
 {
-  "name": "alpha",
+  "name": "kierandesilvie-blog",
   "version": "0.0.0",
   "dependencies": {
     "backbone-amd": "~1.1.0",
